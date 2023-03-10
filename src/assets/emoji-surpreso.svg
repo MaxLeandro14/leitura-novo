@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 30 30" version="1.1" viewBox="0 0 30 30" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.st0{fill:none;stroke:#5D6AE2;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#5D6AE2;}
+</style>
+		<circle class="st0" cx="15" cy="15.1" r="13.6"/>
+	<ellipse class="st0" cx="15" cy="19.4" rx="3.6" ry="6.1"/>
+	<path class="st1" d="m18.1 22.7c-2.6-1.4-4.8-0.6-6 0.2 0.7 1.6 1.7 2.7 3 2.7 1.2-0.1 2.3-1.2 3-2.9z"/>
+			<ellipse class="st1" transform="matrix(.8977 .4405 -.4405 .8977 6.0927 -2.5698)" cx="8.6" cy="11.8" rx="3.3" ry="4.7"/>
+			<ellipse class="st1" transform="matrix(-.8977 .4405 -.4405 -.8977 45.862 13.03)" cx="21.4" cy="11.8" rx="3.3" ry="4.7"/>
+			<path class="st1" d="m22.6 7.8c-0.2 0-0.4-0.2-0.4-0.4v-5c0-0.2 0.2-0.4 0.4-0.4 0.3 0 0.4 0.2 0.4 0.4v5c0 0.2-0.1 0.4-0.4 0.4z"/>
+			<path class="st1" d="m24.5 7c-0.2 0-0.4-0.2-0.4-0.4v-3.6c0-0.2 0.2-0.4 0.4-0.4s0.4 0.2 0.4 0.4v3.6c0 0.2-0.2 0.4-0.4 0.4z"/>
+			<path class="st1" d="m26.4 9.6c-0.2 0-0.4-0.2-0.4-0.4v-5.3c0-0.2 0.2-0.4 0.4-0.4s0.4 0.2 0.4 0.4v5.4c0 0.2-0.2 0.3-0.4 0.3z"/>
+</svg>
